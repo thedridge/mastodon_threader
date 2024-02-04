@@ -1,6 +1,6 @@
 # Markdown to Mastodon Thread Poster
 
-This Python script allows users to post content from a markdown file to Mastodon, including images with alt text, and set the visibility of posts directly through the markdown file's front matter. 
+This Python script allows users to post content from a markdown file to Mastodon, including images with alt text. 
 ### Disclaimer:
 The script was written using a process that relied heavily on GPT-4 to generate the code. It has been tested a few times on a small instance and it works, but feel free to improve it as you see fit. 
 
