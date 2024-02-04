@@ -17,8 +17,10 @@ Ensure you have Python 3.x installed on your system. This script requires the fo
 - `PyYAML` for YAML front matter parsing.
 - `Mastodon.py` for interacting with the Mastodon API.
 - `tkinter` for file selection dialogs.
+- 
+You may want to create a virtual environment before installing PyYAML and Mastodon.py. I had to run it in a virtual environment.
 
-Install the required packages using pip:
+Once your venv is created and activated, install the required packages using pip:
 
 ```bash
 pip install PyYAML Mastodon.py
