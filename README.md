@@ -53,9 +53,6 @@ python3 md_to_masto_thread.py
 
 2. Select the markdown file you wish to post when prompted.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome!
 
 ## Security
 
