@@ -36,11 +36,11 @@ pip install PyYAML Mastodon.py
 ---
 visibility: unlisted
 ---
-# Your Post Title
+This is post number 1. When you add two consecutive line breaks it will create the next toot in the thread.
 
-Your post content here.
+This is the beginning of the second toot in the thread. You can add an image using the standard markdown image embed format. The caption will be added as alt text. ![Image Alt Text](path/to/image.jpg)
 
-![Image Alt Text](path/to/image.jpg)
+This will be the third toot in the thread. End of Thread!
 ```
 
 ## Usage
